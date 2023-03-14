@@ -1,23 +1,13 @@
 # gym-management-system
 
-- Completed a 6-week web development training program with Internshala, focusing on HTML, CSS, MySQL, and PHP.
+- User authentication and dashboard: Users can create an account and log in to access the system. Once logged in, users can view their membership details, payment history, and progress through the dashboard.
 
-- Developed a gym management system website as a part of the training program, showcasing expertise in web development technologies.
+- Membership management: Users can purchase and manage their memberships, including the ability to renew or cancel their subscription.
 
-- Utilized HTML, CSS, MySQL, and PHP to create a fully functional website, including a user-friendly interface, database integration, and responsive design.
+- Class scheduling and trainer booking: Users can view and book classes, including checking availability, class descriptions, and schedules. Users can also book personal training sessions with available trainers, including the ability to view trainer profiles, rates, and availability.
 
-- Implemented a gym management system including member registration, membership plan management, and attendance tracking.
+- Payment integration: The system integrates with payment gateways to facilitate secure payment processing for membership fees and personal training sessions.
 
-- Showcased ability to work with databases, creating tables and performing CRUD operations.
+- Inventory management, reporting and analytics, messaging system, and administrative tools: Gym owners and staff have access to inventory management tools such as tracking inventory levels, orders, and deliveries. The system also generates reports and analytics on various aspects such as user activity, revenue, and expenses. Users can communicate with trainers, staff, and other members through an internal messaging system. Gym owners and staff have access to administrative tools such as user management, financial reporting, and system configuration.
 
-- Developed gym management system website which can be used for managing gym member's membership, attendance, and payments.
-
-- Experience with web development technologies such as HTML, CSS, MySQL and PHP.
-
-- Experience in developing and implementing web-based applications.
-
-- Strong analytical and problem-solving skills, ability to work independently and in a team environment.
-
-- Proven ability to learn and adapt quickly to new technologies and programming languages.
-
-- Strong attention to detail and ability to work under tight deadlines.
+- Mobile responsiveness and security measures: The website is mobile-responsive, providing an optimal viewing and user experience across various devices and screen sizes. The website employs security measures such as password encryption and two-factor authentication to ensure user data protection.
